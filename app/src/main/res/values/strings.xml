@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Track Your Favorite GitHub Repository</string>
+    <string name="no_url_available">No URL available</string>
+    <string name="share_repository">Share Repository</string>
+    <string name="please_enter_owner_repo_name">Please enter owner and repository name</string>
+</resources>
